@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ede Rojin DEL\u0130BA\u015E\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2241FBEA-D3F5-4D0B-9566-9CFFF96907AB}|Presentation\\API\\API.csproj|c:\\users\\ede rojin del\u0130ba\u015F\\onedrive\\belgeler\\visual studio 2022\\project\\botasbackend\\presentation\\api\\controllers\\marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2241FBEA-D3F5-4D0B-9566-9CFFF96907AB}|Presentation\\API\\API.csproj|solutionrelative:presentation\\api\\controllers\\marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2241FBEA-D3F5-4D0B-9566-9CFFF96907AB}|Presentation\\API\\API.csproj|c:\\users\\ede rojin del\u0130ba\u015F\\onedrive\\belgeler\\visual studio 2022\\project\\botasbackend\\presentation\\api\\repository\\marketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2241FBEA-D3F5-4D0B-9566-9CFFF96907AB}|Presentation\\API\\API.csproj|solutionrelative:presentation\\api\\repository\\marketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2241FBEA-D3F5-4D0B-9566-9CFFF96907AB}|Presentation\\API\\API.csproj|c:\\users\\ede rojin del\u0130ba\u015F\\onedrive\\belgeler\\visual studio 2022\\project\\botasbackend\\presentation\\api\\abstraction\\imarketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2241FBEA-D3F5-4D0B-9566-9CFFF96907AB}|Presentation\\API\\API.csproj|solutionrelative:presentation\\api\\abstraction\\imarketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2241FBEA-D3F5-4D0B-9566-9CFFF96907AB}|Presentation\\API\\API.csproj|c:\\users\\ede rojin del\u0130ba\u015F\\onedrive\\belgeler\\visual studio 2022\\project\\botasbackend\\presentation\\api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2241FBEA-D3F5-4D0B-9566-9CFFF96907AB}|Presentation\\API\\API.csproj|solutionrelative:presentation\\api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2241FBEA-D3F5-4D0B-9566-9CFFF96907AB}|Presentation\\API\\API.csproj|c:\\users\\ede rojin del\u0130ba\u015F\\onedrive\\belgeler\\visual studio 2022\\project\\botasbackend\\presentation\\api\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2241FBEA-D3F5-4D0B-9566-9CFFF96907AB}|Presentation\\API\\API.csproj|solutionrelative:presentation\\api\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2241FBEA-D3F5-4D0B-9566-9CFFF96907AB}|Presentation\\API\\API.csproj|c:\\users\\ede rojin del\u0130ba\u015F\\onedrive\\belgeler\\visual studio 2022\\project\\botasbackend\\presentation\\api\\repository\\devicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2241FBEA-D3F5-4D0B-9566-9CFFF96907AB}|Presentation\\API\\API.csproj|solutionrelative:presentation\\api\\repository\\devicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2241FBEA-D3F5-4D0B-9566-9CFFF96907AB}|Presentation\\API\\API.csproj|c:\\users\\ede rojin del\u0130ba\u015F\\onedrive\\belgeler\\visual studio 2022\\project\\botasbackend\\presentation\\api\\abstraction\\imoviesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2241FBEA-D3F5-4D0B-9566-9CFFF96907AB}|Presentation\\API\\API.csproj|solutionrelative:presentation\\api\\abstraction\\imoviesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarketController.cs",
+              "DocumentMoniker": "C:\\Users\\Ede Rojin DEL\u0130BA\u015E\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Presentation\\API\\Controllers\\MarketController.cs",
+              "RelativeDocumentMoniker": "Presentation\\API\\Controllers\\MarketController.cs",
+              "ToolTip": "C:\\Users\\Ede Rojin DEL\u0130BA\u015E\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Presentation\\API\\Controllers\\MarketController.cs",
+              "RelativeToolTip": "Presentation\\API\\Controllers\\MarketController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:14:57.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MarketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ede Rojin DEL\u0130BA\u015E\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Presentation\\API\\Repository\\MarketRepository.cs",
+              "RelativeDocumentMoniker": "Presentation\\API\\Repository\\MarketRepository.cs",
+              "ToolTip": "C:\\Users\\Ede Rojin DEL\u0130BA\u015E\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Presentation\\API\\Repository\\MarketRepository.cs",
+              "RelativeToolTip": "Presentation\\API\\Repository\\MarketRepository.cs",
+              "ViewState": "AQIAAF4AAAAAbmZmZmYhwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:14:11.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMarketRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ede Rojin DEL\u0130BA\u015E\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Presentation\\API\\Abstraction\\IMarketRepo.cs",
+              "RelativeDocumentMoniker": "Presentation\\API\\Abstraction\\IMarketRepo.cs",
+              "ToolTip": "C:\\Users\\Ede Rojin DEL\u0130BA\u015E\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Presentation\\API\\Abstraction\\IMarketRepo.cs",
+              "RelativeToolTip": "Presentation\\API\\Abstraction\\IMarketRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:13:58.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeviceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ede Rojin DEL\u0130BA\u015E\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Presentation\\API\\Repository\\DeviceRepository.cs",
+              "RelativeDocumentMoniker": "Presentation\\API\\Repository\\DeviceRepository.cs",
+              "ToolTip": "C:\\Users\\Ede Rojin DEL\u0130BA\u015E\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Presentation\\API\\Repository\\DeviceRepository.cs",
+              "RelativeToolTip": "Presentation\\API\\Repository\\DeviceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:32:49.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ede Rojin DEL\u0130BA\u015E\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Presentation\\API\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Presentation\\API\\Repository\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\Ede Rojin DEL\u0130BA\u015E\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Presentation\\API\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "Presentation\\API\\Repository\\MovieRepository.cs",
+              "ViewState": "AQIAAA4AAAAAzczMzMwmwCUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:46:07.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMoviesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ede Rojin DEL\u0130BA\u015E\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Presentation\\API\\Abstraction\\IMoviesRepo.cs",
+              "RelativeDocumentMoniker": "Presentation\\API\\Abstraction\\IMoviesRepo.cs",
+              "ToolTip": "C:\\Users\\Ede Rojin DEL\u0130BA\u015E\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Presentation\\API\\Abstraction\\IMoviesRepo.cs",
+              "RelativeToolTip": "Presentation\\API\\Abstraction\\IMoviesRepo.cs",
+              "ViewState": "AQIAAAIAAAAAMjMzMzMbwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:31:57.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ede Rojin DEL\u0130BA\u015E\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Presentation\\API\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Presentation\\API\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Ede Rojin DEL\u0130BA\u015E\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Presentation\\API\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Presentation\\API\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAABgAAAAAvczMzMz8v0oAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:49:46.812Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
