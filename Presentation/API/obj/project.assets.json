@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ede Rojin DELİBAŞ\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Presentation\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Ede Rojin DELİBAŞ\\.vscode\\ViStuCod\\BotasBaEnFirst\\Presentation\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Ede Rojin DELİBAŞ\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Presentation\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Ede Rojin DELİBAŞ\\.vscode\\ViStuCod\\BotasBaEnFirst\\Presentation\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Ede Rojin DELİBAŞ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ede Rojin DELİBAŞ\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Presentation\\API\\obj\\",
+      "outputPath": "C:\\Users\\Ede Rojin DELİBAŞ\\.vscode\\ViStuCod\\BotasBaEnFirst\\Presentation\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ede Rojin DELİBAŞ\\AppData\\Roaming\\NuGet\\NuGet.Config",

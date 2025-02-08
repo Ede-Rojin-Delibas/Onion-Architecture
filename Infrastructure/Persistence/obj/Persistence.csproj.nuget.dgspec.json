@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ede Rojin DELİBAŞ\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Infrastructure\\Persistence\\Persistence.csproj": {}
+    "C:\\Users\\Ede Rojin DELİBAŞ\\.vscode\\ViStuCod\\BotasBaEnFirst\\Infrastructure\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ede Rojin DELİBAŞ\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Infrastructure\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\Ede Rojin DELİBAŞ\\.vscode\\ViStuCod\\BotasBaEnFirst\\Infrastructure\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ede Rojin DELİBAŞ\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Infrastructure\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Ede Rojin DELİBAŞ\\.vscode\\ViStuCod\\BotasBaEnFirst\\Infrastructure\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Ede Rojin DELİBAŞ\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Infrastructure\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\Ede Rojin DELİBAŞ\\.vscode\\ViStuCod\\BotasBaEnFirst\\Infrastructure\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Ede Rojin DELİBAŞ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ede Rojin DELİBAŞ\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Infrastructure\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Ede Rojin DELİBAŞ\\.vscode\\ViStuCod\\BotasBaEnFirst\\Infrastructure\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ede Rojin DELİBAŞ\\AppData\\Roaming\\NuGet\\NuGet.Config",

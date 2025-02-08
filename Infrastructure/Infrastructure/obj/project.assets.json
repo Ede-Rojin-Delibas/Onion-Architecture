@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ede Rojin DELİBAŞ\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Ede Rojin DELİBAŞ\\.vscode\\ViStuCod\\BotasBaEnFirst\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\Ede Rojin DELİBAŞ\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Ede Rojin DELİBAŞ\\.vscode\\ViStuCod\\BotasBaEnFirst\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Ede Rojin DELİBAŞ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ede Rojin DELİBAŞ\\OneDrive\\Belgeler\\Visual Studio 2022\\Project\\BOTASBackEnd\\Infrastructure\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Ede Rojin DELİBAŞ\\.vscode\\ViStuCod\\BotasBaEnFirst\\Infrastructure\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ede Rojin DELİBAŞ\\AppData\\Roaming\\NuGet\\NuGet.Config",
